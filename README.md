@@ -11,6 +11,4 @@ issue warning to save precious human lives.
 
 
 
-The model here can be used to predict avalanche Danger levels , the only requirement for running the code is 
-pip install tensorflow 
-and don't forget to add a csv source file
+The model here can be used to predict avalanche Danger levels , don't forget to add a csv source file
